@@ -1,6 +1,7 @@
 {
-	"imports": {
-		"@/": "./",
-		"asserts": "https://deno.land/std@0.178.0/testing/asserts.ts"
-	}
+  "imports": {
+    "@/": "./",
+    "asserts": "https://deno.land/std@0.178.0/testing/asserts.ts",
+    "$std/": "https://deno.land/std@0.171.0/"
+  }
 }
